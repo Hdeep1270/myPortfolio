@@ -4,7 +4,7 @@ import { useState } from "react";
 const testimonials = [
   {
     quote:
-      "Pedro is one of the most talented engineers I've worked with. His attention to detail and ability to translate complex requirements into elegant solutions is remarkable.",
+      "Harshdeep is one of the most talented engineers I've worked with. His attention to detail and ability to translate complex requirements into elegant solutions is remarkable.",
     author: "Ansh Pandey",
     role: "Product Manager, Dice.tech",
     avatar:
@@ -12,7 +12,7 @@ const testimonials = [
   },
   {
     quote:
-      "Working with Pedro was a game-changer for our project. He delivered ahead of schedule with code quality that set a new standard for our team.",
+      "Working with Harsh was a game-changer for our project. He delivered ahead of schedule with code quality that set a new standard for our team.",
     author: "Mitesh Kansotiya",
     role: "Engagement Manager, Dice.tech",
     avatar:
